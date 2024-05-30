@@ -1,2 +1,2 @@
-# PRODIGY_WEB_03
+# PRODIGY_WD_03
 Prodigy web development task-03
